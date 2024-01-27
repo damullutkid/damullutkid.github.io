@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior at the University of North Carolina at Charlotte, majoring in Accounting and minoring in Data Science. I have always had a passion for computers, but was too intimidated by the math and technical aspects until I was introduced to the Python programming language, which I fell in love with. Since 2021, I have been on a journey of self-learning and discovery, where I have been developing my programming skills and finding ways to use these skills in accounting - you can find some examples on my project page. Similar to programming, I have also been developing my communication skills. Throughout college, I've worked several retail jobs: Target, Lowe's. From these experiences, I learned how to communicate with clients and how to address their needs using my skills and the tools available. At Lowe's, this helped me earn a customer satisfaction star for outstanding service. 
+- I'm a Senior at the University of North Carolina at Charlotte, majoring in Accounting and minoring in Data Science. 
+
+- I have always had a passion for computers, but was too intimidated by the math and technical aspects until I was introduced to the Python programming language, which I fell in love with. Since 2021, I have been on a journey of self-learning and discovery, where I have been developing my programming skills and finding ways to use these skills in accounting - you can find some examples on my project page. 
+
+- Similar to programming, I have also been developing my communication skills. Throughout college, I've worked several retail jobs: Target, Lowe's. From these experiences, I learned how to communicate with clients and how to address their needs using my skills and the tools available. At Lowe's, this helped me earn a customer satisfaction star for outstanding service. 
 
 Thank you for reading, I would love to further discuss my skills at your convenience.
 

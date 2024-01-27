@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jesus's Page'"
+title                    : "Jesus's Homepage"
 title_separator          : "-"
 name                     : &name "Jesus Barrera Mejia"
 description              : &description "personal description"
