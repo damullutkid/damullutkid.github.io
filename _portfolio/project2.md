@@ -7,4 +7,4 @@ collection: portfolio
 Creating visualization to illustrate what occurs financially when a business is going bankrupt
 
 <!-- Fix this part -->
-[--> Download PDF of Paper Here <--](http://damullutkid.github.io/files/Project1_Final_ITCS_3162_Jesus_Barrera_Mejia.pdf) 
+[--> Download PDF of Paper Here <--](http://damullutkid.github.io/files/Project1Final_ITCS3162_JesusBarreraMejia.pdf) 
