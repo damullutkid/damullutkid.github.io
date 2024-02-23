@@ -11,7 +11,8 @@ In this project I am creating a classification model.
 
 # The Problem/Question & The Data
 
-My model will attempt to decide if someone is approved for a loan based on 11 features. The 11 features are:
+My model will attempt to decide if someone is approved for a loan based on 11 features. 
+The 11 features are:
 
     * Gender: Male or Female
     * Married: Married or Not Married
@@ -27,7 +28,11 @@ My model will attempt to decide if someone is approved for a loan based on 11 fe
 
 My data set was retrieved from Kaggle here (https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction/data). One problem I encountered with this dataset is that the author did not provide information on where he pulled all the data. This is a concern, but the data does not have any errors, all formats are consistent within columns and there is information provided about what each column means. 
 
+
+
 # Pre-Processing
+
+## Data Types & Null Values
 
 # Data Visualization
 
