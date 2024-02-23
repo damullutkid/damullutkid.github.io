@@ -11,18 +11,18 @@ In this project I am creating a classification model.
 
 # The Problem/Question & The Data
 
-    My model will attempt to decide if someone is approved for a loan based on 11 features. The 11 features are:
-        * Gender
-        * Married
-        * Dependents
-        * Education 
-        * Employment
-        * Income 
-        * Coapplicent Income 
-        * Loan Amount 
-        * Loan Terms
-        * Credit History
-        * Property Area
+My model will attempt to decide if someone is approved for a loan based on 11 features. The 11 features are:
+    * Gender
+    * Married
+    * Dependents
+    * Education 
+    * Employment
+    * Income 
+    * Coapplicent Income 
+    * Loan Amount 
+    * Loan Terms
+    * Credit History
+    * Property Area
 
 # Pre-Processing
 
