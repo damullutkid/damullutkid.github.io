@@ -1,6 +1,6 @@
 ---
 title: "ITCS 3162: Project 1 - Visualization"
-excerpt: "<br/><img src='/images/ITCS_3162_Pic.png'>"
+# excerpt: "<br/><img src='/images/ITCS_3162_Pic.png'>"
 collection: portfolio
 ---
 

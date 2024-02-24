@@ -1,6 +1,6 @@
 ---
 title: "ECON 3112 Regression Project"
-excerpt: "<br/><img src='/images/Regression_Snapshot.png'>"
+# excerpt: "<br/><img src='/images/Regression_Snapshot.png'>"
 collection: portfolio
 ---
 
