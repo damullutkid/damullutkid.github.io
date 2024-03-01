@@ -1,6 +1,6 @@
 ---
 title: "ITCS 3162: Project 2 - Classification"
-excerpt: ""
+# excerpt: "<br/><img src='/images/ITCS_3162_Pic.png'>"
 collection: portfolio
 ---
 # About
@@ -8,9 +8,7 @@ collection: portfolio
 In this project I am creating a classification model. 
 
 <!-- Fix this part -->
-[--> Download PDF of Paper Here <--]() 
+[--> Link for Jupter Notebook Here <--](https://github.com/damullutkid/ITCS3162-Classification-Project/blob/main/Project2_Jesus_Barrera_ITCS3162.ipynb) 
 
-[--> Download Jupter Notebook Here <--]() 
-
-# Preprocessing
+[--> Download PDF of Paper Here <--](http://damullutkid.github.io/files/ITCS3162_Project2_Classifiaction_Jesus_Barrera_Mejia.pdf) 
 
