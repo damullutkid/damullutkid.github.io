@@ -3,9 +3,6 @@ title: "ITCS 3162: Project 3 - Linear Regression"
 # excerpt: "<br/><img src='/images/ITCS_3162_Pic.png'>"
 collection: portfolio
 ---
-
-In this project I am creating a linear regression model for college graduation rates. 
-
 <!-- Fix this part -->
 [--> Dowload HTML File for Jupter Notebook Here <--](http://damullutkid.github.io/files/project3reg.html) 
 
