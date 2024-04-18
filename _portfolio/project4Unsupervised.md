@@ -8,7 +8,7 @@ collection: portfolio
 This project is all about unsupervised learning. In my model I plan to use K-means  
 
 <!-- Fix this part -->
-[--> Link for Jupter Notebook Here <--](https://github.com/damullutkid/ITCS3162-Classification-Project/blob/main/Project2_Jesus_Barrera_ITCS3162.ipynb) 
+[--> Link for Jupter Notebook Here <--](https://github.com/damullutkid/ITCS3162_Project4_Unsupervised_Learning/blob/main/Project_4_Unsupervised_learning.ipynb) 
 
-[--> Download PDF of Paper Here <--](http://damullutkid.github.io/files/ITCS3162_Project2_Classifiaction_Jesus_Barrera_Mejia.pdf) 
+[--> Download PDF of Paper Here <--](http://damullutkid.github.io/files/Jesus_Barrera_Mejia_Project_4_Unsupervised_Learning) 
 
